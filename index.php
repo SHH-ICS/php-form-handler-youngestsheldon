@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Page Title</title>
+    <title>robert #1</title>
   </head>
 
   <body>
-    
-    <?php
-    echo "<h1>Hello, World!</h1>\n";
-    ?>
-    
+<form action="welcome.php" method="post">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="reason of entry"><br>
+<input type="submit">
+</form>
+
   </body>
   
 </html>
