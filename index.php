@@ -5,9 +5,11 @@
   </head>
 
   <body>
-<form action="welcome.php" method="post">
+<form action="welcome to Arstotzka,.php" method="post">
 Name: <input type="text" name="name"><br>
-E-mail: <input type="text" name="reason of entry"><br>
+Reason of Entry: <input type="text" name="reason of entry"><br>
+Place of origin: <input type="text" name="place of origin"><br>
+Duration of stay: <input type="text" name="duration of stay"><br>
 <input type="submit">
 </form>
 
